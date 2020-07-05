@@ -1,4 +1,4 @@
-# One Dark Splash Screen
+# Dracula Splash Screen
 ## Installation
 Install it like you do to any theme.
 ## Customization
