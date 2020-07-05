@@ -1,12 +1,9 @@
+@import("https://github.com/adobe-fonts/source-sans-pro/blob/release/source-sans-pro.css");
+
 /* COLORS */
 $background: #272935;
 $text: #F8F8F2;
-$font: "Fira Code";
-
-@font-face {
-  font-family: 'Fira Code';
-  src: url('https://github.com/tonsky/FiraCode/blob/master/distr/woff2/FiraCode-Regular.woff2') format('woff2'),
-}
+$font: "Source Sans Pro";
 
 #splash {
   background: $background !important;
