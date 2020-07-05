@@ -1,9 +1,12 @@
-@import("https://github.com/adobe-fonts/source-sans-pro/blob/release/source-sans-pro.css");
-
 /* COLORS */
 $background: #272935;
 $text: #F8F8F2;
 $font: "Source Sans Pro";
+
+@font-face {
+  font-family: $font;
+  src: url("https://github.com/adobe-fonts/source-sans-pro/blob/release/TTF/SourceSansPro-Regular.ttf");
+}
 
 #splash {
   background: $background !important;
