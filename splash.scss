@@ -1,11 +1,12 @@
 /* COLORS */
 $background: #272935;
 $text: #F8F8F2;
-$font: "Mononoki";
+$font: "Fira Code";
 
 @font-face {
-  font-family: $font;
-  src: url("https://github.com/madmalik/mononoki/blob/master/export/webfont/mononoki-Regular.ttf");
+  font-family: 'Fira Code';
+  src: url('woff2/FiraCode-Regular.woff2') format('woff2'),
+  font-weight: 400;
 }
 
 #splash {

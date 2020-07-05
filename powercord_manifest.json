@@ -1,7 +1,7 @@
 {
-  "name": "One Dark Splash",
-  "description": "A theme for the splash screen inspired by Atom's One Dark",
-  "version": "1.0",
+  "name": "Dracula Splash",
+  "description": "A theme for the splash screen inspired by Dracula.",
+  "version": "1.1",
   "author": "sanana the skenana#8689",
   "license": "MIT",
   "theme": "ignore-me.css",
