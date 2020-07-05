@@ -1,6 +1,6 @@
 # Dracula Splash Screen
 ## Installation
-1. Install the font in this repository.
+1. Install the font (Click "download family" @ https://fonts.google.com/specimen/Source+Sans+Pro).
 2. Install it like you do to any theme.
 ## Customization
 You can customize this by editing the files.

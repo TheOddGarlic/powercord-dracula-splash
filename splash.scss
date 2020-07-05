@@ -3,11 +3,6 @@ $background: #272935;
 $text: #F8F8F2;
 $font: "Source Sans Pro";
 
-@font-face {
-  font-family: $font;
-  src: url("./SourceSansPro-Regular.ttf");
-}
-
 #splash {
   background: $background !important;
   .splash-inner .splash-text > span.splash-status {
